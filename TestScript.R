@@ -10,6 +10,5 @@ for (x in 1:10) {
 }
 
 #Variable
-name <- "'Affan"
-
+name <- "Affan"
 name
